@@ -1,5 +1,6 @@
 # Cyber Bay for Android
 
+![Guppy project screen](https://github.com/thePlebDev/The-Cyber-Bay/blob/master/screenshot.png)
 
 ### Current Status
 
