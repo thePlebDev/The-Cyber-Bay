@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">cyberBay</string>
+
+    <string name="app_login">Please enter login</string>
+    <string name="app_password">Please enter password</string>
+    <string name="app_button">Login</string>
 </resources>
