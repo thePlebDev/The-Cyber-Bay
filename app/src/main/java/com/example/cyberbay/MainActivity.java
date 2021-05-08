@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+//IN MODEL VIEW CONTROLLER. THIS IS CONSIDERED A CONTROLLER.
+//A CONTROLLER IS TYPICALLY A SUBCLASS OF ACTIVITY, FRAGMENT OR SERVICE
 public class MainActivity extends AppCompatActivity {
 
     @Override
