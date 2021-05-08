@@ -3,6 +3,7 @@ package com.example.cyberbay;
 import android.text.Editable;
 import android.text.TextWatcher;
 
+//THIS IS AN EXAMPLE OF A MODEL IN THE MVC
 public class EditTextViewListener implements TextWatcher {
     private String mainText;
 
